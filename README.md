@@ -5,7 +5,7 @@ This Project is aimed at addressing the challenge of tenant retention comprehens
 - High tenant churn rate.
 - Limited tenant insight to look into tenant satisfaction and concern making it difficult to address issues effecively.
 - Inefficient lease renewal.
-- Lack of trend identification thereby hindering the development of effective rent strategies.
+- Lack of trend identification thereby hindering the development of effective rent strategies. 
 ### Data Source
 Primary
 ### Tool
